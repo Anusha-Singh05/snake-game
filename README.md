@@ -21,4 +21,4 @@ A simple and fun Snake Game made using *HTML*, *CSS*, and *JavaScript*.
 =======
 # snake-game
 A classic Snake Game built using HTML, CSS and JavaScript. Simple, fun, and fully responsive!
->>>>>>> cd09b2725ae67addd9bbbdd967a11ff2d23376e5
+
