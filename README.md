@@ -1,5 +1,3 @@
-# 🐍 Snake Game
-
 A simple and fun Snake Game made using *HTML*, *CSS*, and *JavaScript*.
 
 ## 🎮 How to Play
